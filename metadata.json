@@ -1,0 +1,5 @@
+{
+  "name": "Anticoagulant Switcher (EHRA 2021)",
+  "description": "A medical utility for healthcare professionals to safely transition patients between different anticoagulants (Warfarin/VKA, NOACs, and Heparins) following the EHRA 2021 Practical Guide.",
+  "requestFramePermissions": []
+}
